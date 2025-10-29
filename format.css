@@ -1,0 +1,101 @@
+.all-assignments{
+    display: flex;
+    justify-content: space-between;
+}
+.main {
+border: black 2px solid;
+border: 20px;
+display: flex;
+background-image: url(SaharaDesert-58c1a5603df78c353c3d525d.webp);
+padding: 30px;
+gap: 60px;
+justify-content: center;
+}
+.firstpostcard {
+    border: 2px solid;
+border-radius: 20px;
+background-color: white;
+text-align: center;
+box-shadow: 4px 8px;
+}
+.secondpostcard {
+    border: 2px solid;
+    border-radius: 20px;
+    background-color: white;
+text-align: center;
+box-shadow: 4px 8px;
+}
+.thirdpostcard {
+    border: 2px solid;
+    border-radius: 10px;
+    background-color: white;
+    text-align: center;
+    box-shadow: 4px 8px;
+    
+}
+.one {
+    background-color: magenta;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    border-radius: 0px 0px 10px 10px;
+}
+.two {
+    background-color: orange;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    border-radius: 0px 0px 10px 10px;
+}
+.three {
+    background-color:green;
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+    border-radius: 0px 0px 10px 10px;
+    border: 1px solid;
+}
+.imageone  {
+    width: 100%;
+    height: 450px;
+    border-radius: 20px 20px 0px 0px;
+}
+.imagetwo  {
+    width: 100%;
+    height: 450px;
+    border-radius: 20px 20px 0px 0px;
+}
+.imagethree  {
+    width: 100%;
+    height: 450px;
+    border-radius: 20px 20px 0px 0px;
+}
+.card1 {
+    color: magenta;
+}
+.card2 {
+    color: orange;
+}
+.card3 {
+    color: green;
+}
+/*.three div {
+    border: 1px solid;
+    gap: 0px;
+}*/
+/*.three-1 {
+    padding: 0px;
+    gap: 0px;
+    justify-content: center;
+    border: 1px 1px 1px 10px solid;
+}
+.three-2 {
+    padding: 0px;
+    gap: 0px;
+    justify-content: center;
+}
+.three-3 {
+    padding: 0px;
+    gap: 0px;
+    justify-content: center;
+}*/
